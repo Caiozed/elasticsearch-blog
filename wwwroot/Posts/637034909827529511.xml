@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<post>
+  <title>test</title>
+  <slug>teste</slug>
+  <pubDate>2019-09-07 22:10:03</pubDate>
+  <lastModified>2019-09-07 22:12:47</lastModified>
+  <excerpt>teste111</excerpt>
+  <content>&lt;p&gt;teste&lt;/p&gt;</content>
+  <ispublished>true</ispublished>
+  <categories>
+    <category>teste</category>
+  </categories>
+  <comments></comments>
+</post>
